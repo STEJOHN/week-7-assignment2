@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-
+using NLog;
 
 
 namespace EssentialTrainingApp
@@ -16,7 +16,7 @@ namespace EssentialTrainingApp
 
         static void Main(string[] args)
         {
-            logger.Trace("The program started.");
+            logger.Trace("The program started..");
             Words = new List<string>();
             Words.Add("Bread");
             Words.Add("Milk");
