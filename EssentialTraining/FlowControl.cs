@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace EssentialTraining
+﻿namespace EssentialTraining
 {
-    public class FlowControl 
+    public class FlowControl
     {
         public string IsYourNameNotBruce(string yourName)
         {

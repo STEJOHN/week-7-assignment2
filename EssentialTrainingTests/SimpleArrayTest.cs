@@ -1,6 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using EssentialTraining;
+﻿using EssentialTraining;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace EssentialTrainingTests
 {
